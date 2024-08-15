@@ -1,2 +1,2 @@
 # Otomasyon
-My first coding about otomation
+My first coding.
